@@ -9,3 +9,13 @@ klass.py
 kontrol.py
 kot
 
+venv/
+__pycache__/
+*.pyc
+.history
+.vscode
+klass.py
+kontrol.py
+kot
+domash_1.py
+history.txt
